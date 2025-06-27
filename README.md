@@ -29,3 +29,6 @@ This repo contains the code the algorithm to predict the number of vehicles requ
         - Increment its visit count by 1
         - Add a small noise (0.01) to the popularity score to avoid 0 probability
         - After updating all relevant nodes, normalize the popularity column
+
+### References:
+https://www.pnas.org/doi/10.1073/pnas.1821667116
